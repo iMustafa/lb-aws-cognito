@@ -16,7 +16,7 @@
     "express-flash": "0.0.2",
     "express-session": "^1.7.6",
     "jade": "^1.7.0",
-    "loopback": "^3.0.0",
+    "loopback": "^3.25.1",
     "loopback-boot": "^2.0.0",
     "loopback-component-explorer": "^2.1.0",
     "loopback-component-passport": "^2.2.0",
